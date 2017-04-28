@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Persone>
+  <Persona nome="Luca" cognome="Pesaresi" indirizzo="Via Dario Campana" telefono="3318077598" />
+  <Persona nome="Antonio" cognome="Wang" indirizzo="Via Andrea Costa" telefono="3314077798" />
+  <Persona nome="Nicholas" cognome="Cecchini" indirizzo="Via Giovanni Leggenda" telefono="3318073459" />
+</Persone>
